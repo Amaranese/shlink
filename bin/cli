@@ -1,0 +1,10 @@
+#!/usr/bin/env php
+<?php
+
+declare(strict_types=1);
+
+use Symfony\Component\Console\Application;
+
+/** @var Application $app */
+$app = require __DIR__ . '/../config/cli-app.php';
+$app->run();
