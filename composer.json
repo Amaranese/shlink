@@ -1,5 +1,5 @@
 {
-    "name": "shlinkio/shlink",
+    "name": "shlinkio/shlink", 
     "type": "project",
     "homepage": "https://shlink.io",
     "description": "A self-hosted and PHP-based URL shortener application with CLI and REST interfaces",
